@@ -58,11 +58,12 @@ Backend Engineer com experiência prática no desenvolvimento de **APIs REST** u
 
 <div align="center">
 
-![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaelhpo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphaelhpo&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelhpo&layout=compact&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raphaelhpo&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raphaelhpo&theme=tokyonight"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=raphaelhpo&theme=tokyonight&hide_border=true)
+<img width="100%" src="https://streak-stats.demolab.com?user=raphaelhpo&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 
 </div>
 
@@ -84,8 +85,8 @@ Serviços independentes para consulta de CEP e dados climáticos com integraçã
 
 `Java` `Spring Boot` `Feign Client` `Docker` `Angular` `Railway` `Vercel`
 
+---
+
 <div align="center">
-
-![Visitor Badge](https://visitor-badge.liter.workers.dev/badge?page_id=raphaelhpo.raphaelhpo)
-
+<img src="https://komarev.com/ghpvc/?username=raphaelhpo&color=6DB33F&style=flat-square&label=visitors"/>
 </div>
