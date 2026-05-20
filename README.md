@@ -40,6 +40,8 @@ Backend Engineer com experiência prática no desenvolvimento de **APIs REST** u
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Testes
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
@@ -80,10 +82,15 @@ Backend Engineer com experiência prática no desenvolvimento de **APIs REST** u
 
 ## 🚀 Projetos em Destaque
 
-### 🌦️ [CEP + Clima — Arquitetura de Microsserviços](https://github.com/raphaelhpo/Projeto_Spring_Cep_Clima)
-Serviços independentes para consulta de CEP e dados climáticos com integração entre microserviços via Feign Client, consumo de APIs externas, Docker e Swagger.
+### 🌦️ CEP + Clima — Arquitetura de Microsserviços
 
-`Java` `Spring Boot` `Feign Client` `Docker` `Angular` `Railway` `Vercel`
+> Aplicação fullstack completa com arquitetura de microsserviços para consulta de CEP e dados climáticos. Deploy no GCP Cloud Run e Vercel.
+
+| Repositório | Descrição | Stack |
+|-------------|-----------|-------|
+| [🔧 api-cep](https://github.com/raphaelhpo/api-cep) | Microserviço de busca de CEP com integração à API CEP Aberto | `Java` `Spring Boot` `Feign` `Docker` `GCP` |
+| [🌤️ api-clima](https://github.com/raphaelhpo/api-clima) | Microserviço de dados climáticos por coordenadas geográficas | `Java` `Spring Boot` `Feign` `Docker` `GCP` |
+| [🖥️ cep-clima-front](https://github.com/raphaelhpo/cep-clima-front) | Frontend Angular com busca de CEP e exibição do clima | `Angular` `TypeScript` `Vercel` |
 
 ---
 
