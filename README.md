@@ -92,6 +92,14 @@ Backend Engineer com experiência prática no desenvolvimento de **APIs REST** u
 | [🌤️ api-clima](https://github.com/raphaelhpo/api-clima) | Microserviço de dados climáticos por coordenadas geográficas | `Java` `Spring Boot` `Feign` `Docker` `GCP` |
 | [🖥️ cep-clima-front](https://github.com/raphaelhpo/cep-clima-front) | Frontend Angular com busca de CEP e exibição do clima | `Angular` `TypeScript` `Vercel` |
 
+
+### ✅ Todo List — Gerenciamento de Tarefas
+
+> Aplicação fullstack de gerenciamento de tarefas com CRUD completo, interface web e persistência em banco de dados relacional.
+
+| Repositório | Descrição | Stack |
+|-------------|-----------|-------|
+| [📝 Projeto-todo](https://github.com/raphaelhpo/Projeto-todo) | Aplicação de todo list com CRUD completo, interface web com Thymeleaf e persistência em PostgreSQL | `Java` `Spring Boot` `Thymeleaf` `PostgreSQL` `Docker` `JPA` |
 ---
 
 <div align="center">
